@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/connectfour_logo.jpg
 title: "Connect Four"
 date: 2021-10-01
 published: true
