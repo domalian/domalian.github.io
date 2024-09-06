@@ -11,7 +11,7 @@ labels:
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/two-sides.png">
+<img width="100px" class="rounded float-start pe-4" src="../img/two-sides/two-sides.png">
 
 ## The beginning...
 

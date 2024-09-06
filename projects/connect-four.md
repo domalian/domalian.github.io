@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/connectfour_logo.png
+image: img/connectfour/connectfour_logo.png
 title: "Connect Four"
 date: 2021-10-01
 published: true
