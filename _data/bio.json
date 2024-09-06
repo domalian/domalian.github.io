@@ -6,11 +6,25 @@
     "email": "ddoma@hawaii.edu",
     "phone": "808-333-4444",
     "website": "https://domalian.github.io",
-    "summary": "I am a Computer Engineering student at the University of Hawai at Manoa, expecting to graduate in Dec. 2025.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am a computer engineering student at the University of Hawaii at Manoa, expecting to graduate in Dec. 2025.",
+    "location": {
+      "address": "",
+      "postalCode": "96822",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "domalian", "url": "http://github.com/domalian" },
-      { "network": "linkedin", "username": "domalian", "url": "http://linkedin.com/in/deolian/" }
+      {
+        "network": "github",
+        "username": "domalian",
+        "url": "http://github.com/domalian"
+      },
+      {
+        "network": "linkedin",
+        "username": "domalian",
+        "url": "http://linkedin.com/in/deolian/"
+      }
     ]
   },
   "interests": [
@@ -22,11 +36,18 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Verilog", "MATLAB", "LaTeX" ]
+      "keywords": ["C", "C++", "Verilog", "MATLAB", "LaTeX"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Linux", "Windows", "Git/GitHub", "VS Code", "Oscilloscope", "Function Generator" ]
+      "keywords": [
+        "Linux",
+        "Windows",
+        "Git/GitHub",
+        "VS Code",
+        "Oscilloscope",
+        "Function Generator"
+      ]
     }
   ],
   "education": [
@@ -36,8 +57,7 @@
       "studyType": "B.S.",
       "startDate": "2023-08",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     },
     {
       "institution": "University of Hawaii Maui College, Kahului, HI",
@@ -45,8 +65,7 @@
       "studyType": "A.S.",
       "startDate": "2021-08",
       "endDate": "2023-05",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
@@ -72,7 +91,7 @@
       "highlights": [
         "Sales Associate, 2020-2021",
         "Provided services to customers, and resolved arising conflicts",
-        "Managed sales performance, inventory, and store standardards",
+        "Managed sales performance, inventory, and store standardards"
       ]
     }
   ],
@@ -84,8 +103,7 @@
       "startDate": "2023-08",
       "endDate": "Present",
       "summary": "Design, fabrication, testing, and analysis of various reconfigurable electronic devices using liquid metal",
-      "highlights": [
-      ]
+      "highlights": []
     }
   ],
   "awards": [
