@@ -8,7 +8,7 @@ published: true
 labels:
   - C
   - Game
-summary: "My group programmed a game that simulated a real game called 'Connect 4' for our final project in EE 160."
+summary: "A simulation of the real game 'Connect 4' was programmed as the final project in EE 160."
 ---
 
 <div class="text-center p-4">
