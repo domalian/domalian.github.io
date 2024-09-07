@@ -13,8 +13,8 @@ summary: "A 4-bit arithmetic logic unit (ALU) that performs eight basic operatio
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/ALU/ALU-overview.png" class="img-thumbnail" >
-  <img width="200px" src="../img/ALU/edaplayground.png" class="img-thumbnail" >
+  <img width="400px" src="../img/ALU/ALU-overview.png" class="img-thumbnail" >
+  <img width="400px" src="../img/ALU/edaplayground.png" class="img-thumbnail" >
 </div>
 
 ## What is an ALU?
