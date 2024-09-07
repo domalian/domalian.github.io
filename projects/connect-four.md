@@ -12,7 +12,7 @@ summary: "A simulation of the real game 'Connect 4' was programmed as the final 
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/connectfour/connect4.png" class="img-thumbnail" >
+  <img width="400px" src="../img/connectfour/connect4.png" class="img-thumbnail" >
 </div>
 
 ## About
