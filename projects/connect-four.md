@@ -27,4 +27,6 @@ As the lead for this group project, I programmed the basic algorithms required t
 
 To keep the text-based user interface of the grid, the curses package was used. To run 'Connect4', clone the repo, recompile the files using `gcc -o connect4 functions.c connect4.c -lncurses`, and then run the command `./connect4`.
 
+## GitHub
+
 To further explore the details of this project, you can check out its [GitHub page](https://github.com/domalian/connect-four).
