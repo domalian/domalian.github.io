@@ -25,14 +25,14 @@ An ALU, which stands for Arithmetic Logic Unit, is an important component of a c
 
 For this specific 4-bit ALU, it was designed to be able to perform these eight basic functions on two 4-bit binary data:
 
-1. $A + B$ with carry in and carry out
-2. $A - B$ with borrow in and borrow out
-3. $B - A$ with borrow in and borrow out
-4. $2 \times A$ with an overflow flag
-5. $\frac{A}{2}$ with an overflow flag
-6. $A \times B$ with an overflow flag
-7. $A \oplus B$
-8. $A \lt B$
+1. $`A + B`$ with carry in and carry out
+2. $`A - B`$ with borrow in and borrow out
+3. $`B - A`$ with borrow in and borrow out
+4. $`2 \times A`$ with an overflow flag
+5. $`\frac{A}{2}`$ with an overflow flag
+6. $`A \times B`$ with an overflow flag
+7. $`A \oplus B`$
+8. $`A \lt B`$
 
 ## Logic Gate Design
 
