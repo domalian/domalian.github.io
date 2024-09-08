@@ -17,8 +17,6 @@ summary: "A 4-bit arithmetic logic unit (ALU) that performs eight basic operatio
   <img width="400px" src="../img/ALU/edaplayground.png" class="img-thumbnail" >
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
-
 ## What is an ALU?
 
 An ALU, which stands for Arithmetic Logic Unit, is an important component of a computer's CPU as it performs arithmetic and logic operations on binary data. Therefore, it can also be thought of as the "brain" as it carries out essential tasks required for processing instructions. An ALU can do many different calculations depending on its design, be it arithmetic, logic, bitwise, or comparison operations.
