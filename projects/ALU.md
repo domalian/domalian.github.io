@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ALU/ALU-logo.jpg
+image: img/ALU/ALU-logo.png
 title: "ALU Design"
 date: 2021-10-01
 published: true
