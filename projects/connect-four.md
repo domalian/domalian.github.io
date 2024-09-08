@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/connectfour/connectfour_logo.png
 title: "Connect Four"
-date: 2021-10-01
+date: 2021-12
 published: true
 labels:
   - C
