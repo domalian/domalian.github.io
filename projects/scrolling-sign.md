@@ -3,13 +3,13 @@ layout: project
 type: project
 image: img/scrolling-sign/scrolling-sign-logo.png
 title: "Scrolling Door Sign"
-date: 2022-11
+date: 2023-11
 published: true
 labels:
   - SystemVerilog
   - Digital Circuits Design
   - Hardware Engineering
-summary: "A finite state machine was designed for a scrolling door sign that displayed 'ALOHA' when an office is open, and 'PAU' when it is closed with custom logic."
+summary: "A finite state machine was designed to build a circuit for a scrolling door sign that displayed 'ALOHA' when an office is open, and 'PAU' when it is closed with custom logic."
 ---
 
 <div class="text-center p-4">
@@ -17,6 +17,22 @@ summary: "A finite state machine was designed for a scrolling door sign that dis
 </div>
 
 ## What is a finite state machine?
+
+A sequential logic circuit is designed in which its input and output are defined by their current state depending on rules that were implemented. A Finite State Machine (FSM) is a computational model frequently used in designing such sequential logic circuits with a finite number of distinct states. To be more specific, it manages how states transition based on inputs and the current state to control the behavior of the system.
+
+## Creation Process
+
+To start the design process, I made a state diagram to have a better visualization of how the 7-segment display would transition from one letter to another depending on an input and its current state. Once I had a good foundation of how the circuit would behave, to further expand on the transitioning of each segments of the display, a truth table was made. To keep it simple, I used the truth table to create a custom digital circuit instead of building it with logic gates.
+
+Afterwards, I designed a 4-bit counter using four D flip flops to manage the timing of the transitions.
+
+## End Result
+
+<div class="text-center p-4">
+  <img width="400px" src="../img/scrolling-sign/scrolling-sign-logo.png" class="img-thumbnail" >
+</div>
+
+By end of this project, I become much more comfortable with working with FSM designs. Before this, I had only been working on combinational logic, so this project made the process to making sequential logic circuits more familiar to me. It made me realize the importance of drawing a proper state diagram as it proved to be the best reference when creating the truth table, and debugging.
 
 ## GitHub
 

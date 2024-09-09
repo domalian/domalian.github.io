@@ -2,19 +2,19 @@
 layout: project
 type: project
 image: img/ALU/ALU-logo.png
-title: "ALU Design"
+title: "4-Bit ALU"
 date: 2023-12
 published: true
 labels:
   - SystemVerilog
   - Digital Circuits Design
   - Hardware Engineering
-summary: "A 4-bit arithmetic logic unit (ALU) that performs eight basic operations was designed using Falstad and EDA Playground as the final project for Basic Circuits I."
+summary: "A 4-bit arithmetic logic unit (ALU) that performs eight basic operations was designed using Falstad and EDA Playground as the final project for my intro to digital design class."
 ---
 
 <div class="text-center p-4">
   <img width="400px" src="../img/ALU/ALU-overview.png" class="img-thumbnail" >
-  <img width="400px" src="../img/ALU/edaplayground.png" class="img-thumbnail" >
+  <img width="300px" src="../img/ALU/edaplayground.png" class="img-thumbnail" >
 </div>
 
 ## What is an ALU?
@@ -40,11 +40,11 @@ Looking back now, there were definitely ways in which some operations could have
 
 ## SystemVerilog
 
-To design this 4-bit ALU in SystemVerilog, behavioral methods were used to create a simple program. Below is the block of code that defined the ALU's operations.
+To design this 4-bit ALU in SystemVerilog, a behavioral method was used to create a simple program. Below is the block of code that defined the ALU's operations.
 
 ![](../img/ALU/systemverilog-code.png)
 
-Going through both gate-level and HDL designs really puts into perspective how desirable the latter can be for abstract-level design and how educational the former is for learning digital circuit design.
+Going through both gate-level and HDL designs really gives you perspective on how desirable the latter can be for abstract-level design and how educational the former is for learning digital circuit design.
 
 ## GitHub
 

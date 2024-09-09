@@ -7,6 +7,7 @@ date: 2021-12
 published: true
 labels:
   - C
+  - Software Engineering
   - Game
 summary: "A simulation of the real game 'Connect 4' was programmed as the final project in EE 160."
 ---
