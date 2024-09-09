@@ -18,7 +18,7 @@ summary: "A finite state machine was designed to build a circuit for a scrolling
 
 ## What is a finite state machine?
 
-A sequential logic circuit is designed in which its input and output are defined by their current state depending on rules that were implemented. A Finite State Machine (FSM) is a computational model frequently used in designing such sequential logic circuits with a finite number of distinct states. To be more specific, it manages how states transition based on inputs and the current state to control the behavior of the system.
+A sequential logic circuit is designed in which its input and output are defined by their current state depending on rules that were implemented. A Finite State Machine (FSM) is a computational model frequently used in designing such sequential logic circuits with a finite number of distinct states. To be more specific for this project, it manages how states transition based on inputs and the current state to control the behavior of the system.
 
 ## Creation Process
 
