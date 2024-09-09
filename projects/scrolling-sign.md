@@ -34,6 +34,16 @@ Afterwards, I designed a 4-bit counter using four D flip flops to manage the tim
 
 By end of this project, I became much more comfortable with working with FSM designs. Before this, I had only been working with combinational logic, so this project made the process to making sequential logic circuits more familiar to me. I learned how to put the truth table into practice, and realized the importance of drawing a proper state diagram as it proved to be the best reference when creating the truth table and for debugging.
 
+## SystemVerilog
+
+For more practice with SystemVerilog, I made a small program of this model using behavioral methods.
+
+Below is the block of code that defined the states. Here, only 4 bits were used since the current state really only used 3 bits. The fourth and highest bit was then used for inputs.
+
+<div class="text-center p-4">
+  <img width="400px" src="../img/scrolling-sign/systemVerilog.png" class="img-thumbnail" >
+</div>
+
 ## GitHub
 
 To further explore the details of this project, you can check out its [GitHub page](https://github.com/domalian/scrolling-sign).
