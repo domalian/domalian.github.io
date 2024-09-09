@@ -32,7 +32,7 @@ Afterwards, I designed a 4-bit counter using four D flip flops to manage the tim
   <img width="400px" src="../img/scrolling-sign/scrolling-sign-logo.png" class="img-thumbnail" >
 </div>
 
-By end of this project, I become much more comfortable with working with FSM designs. Before this, I had only been working on combinational logic, so this project made the process to making sequential logic circuits more familiar to me. It made me realize the importance of drawing a proper state diagram as it proved to be the best reference when creating the truth table, and debugging.
+By end of this project, I became much more comfortable with working with FSM designs. Before this, I had only been working with combinational logic, so this project made the process to making sequential logic circuits more familiar to me. I learned how to put the truth table into practice, and realized the importance of drawing a proper state diagram as it proved to be the best reference when creating the truth table and for debugging.
 
 ## GitHub
 
