@@ -4,7 +4,7 @@ type: essay
 title: "The Art of Asking A Question"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-12
-published: false
+published: true
 labels:
   - Questions
   - Answers
