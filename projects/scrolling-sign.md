@@ -13,7 +13,7 @@ summary: "A finite state machine was designed to build a circuit for a scrolling
 ---
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/scrolling-sign/state-diagram.jpg" class="img-thumbnail" >
+  <img width="600px" src="../img/scrolling-sign/state-diagram.jpg" class="img-thumbnail" >
 </div>
 
 ## What is a finite state machine?
