@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Your Standard, My Standard, the Standard"
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-04
+date: 2024-09-22
 published: true
 labels:
   - Reflection
