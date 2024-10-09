@@ -11,7 +11,7 @@ labels:
   - Reflection
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/bootstrap/bootstrap.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/bootstrap/bootstrap.png">
 
 ## Moving up from basic HTML and CSS to Bootstrap
 From building web pages using pure HTML and CSS to using Bootstrap in place of CSS, it was a strange learning experience. With HTML and CSS, it was similar to learning how to build a house with individual lego blocks. Doors were built from individual brown blocks, trees were grown with greens and browns, and fences from stacked parts. In general, the functionality of the object must be defined for it to exist, and even then, it doesn't always react similarly when placed under different circumstanes. Compared to Bootstrap, it was like building from scratch.
